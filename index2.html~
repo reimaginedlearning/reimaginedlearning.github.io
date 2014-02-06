@@ -29,8 +29,9 @@
 
   <body>
 
-  
-   
+  <div id="bg">
+  <img src="img/trees.jpg" alt="">
+	</div>
   
     <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
       <div class="container">

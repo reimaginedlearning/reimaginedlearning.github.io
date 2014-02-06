@@ -279,6 +279,7 @@ body {
   color: #333;
   background-color: #fff;
 }
+body_bg {
 
 }  
 input,
